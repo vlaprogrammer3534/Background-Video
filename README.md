@@ -11,7 +11,7 @@ This project features a **Background Video** with a full-screen video background
 ## Demo
 
 Check out the live demo here:  
-[Background Video Demo](https://your-deployed-project-link.com)
+[Background Video Demo](https://vlaprogrammer3534.github.io/Background-Video/)
 
 You can also watch a video tutorial explaining how this project works:  
 [YouTube Tutorial](https://youtu.be/R0_1i9LQMfw?si=TW1a30kouafXLiWC)
